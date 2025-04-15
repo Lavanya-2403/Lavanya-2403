@@ -2,15 +2,22 @@
 <h3 align="center">Front-End Developer | B.E. 2024 Graduate</h3>
 
 <p align="center">
-  <a >How to reach me  ✉"lavanyav204@gmail.com"
-  </a>
-  <br/>
-  <br/>
-  <a href="https://www.linkedin.com/in/lavanya-v-760320274/" target="_blank">
-   <img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="ajinkya-walunj-483ab4230" height="30" width="40" />
-  </a>
+  <a href="mailto:lavanyav204@gmail.com">✉ lavanyav204@gmail.com</a>
+  <br/><br/>
   
+  <a href="https://www.linkedin.com/in/lavanya-v-760320274/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/user/lavany1nj3/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+  </a>
+
+  <a href="https://leetcode.com/u/Lavanya2403/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
+  </a>
 </p>
+
 
 ---
 
