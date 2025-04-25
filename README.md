@@ -51,13 +51,7 @@
 > "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
 
 ---
-### Vibe while coding 💻
 
-<div align="center">
- <img src="https://media.giphy.com/media/7J6F9N1sURkAAAAC/coding-anime.gif" width="350" alt="girl coding gif"/>
-
-</div>
-<br/>
 
 
 ### 💬 Let's Connect!
