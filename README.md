@@ -55,7 +55,7 @@
 ### 💻 Vibes While Coding
 
 <p align="center">
-   [<img src="https://tenor.com/view/anime-computer-girl-typing-gif-7944313"/>](https://tenor.com/HuQf.gif)
+<img src = "https://tenor.com/view/anime-computer-girl-typing-gif-7944313"/>
   
 </p>
 ---
