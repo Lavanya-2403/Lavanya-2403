@@ -55,7 +55,7 @@
 ### 💻 Vibes While Coding
 
 <p align="center">
- <img src="./assets/coding-girl.png" width="400" alt="Girl Coding Vibes"/>
+<img src="https://media.tenor.com/LozAOE8n5-8AAAAC/coding-girl.gif" width="400" alt="Girl Coding Vibes"/>
 </p>
 ---
 
