@@ -55,7 +55,7 @@
 ### 💻 Vibes While Coding
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2021/05/17/06/08/girl-6258846_1280.png" alt="Cartoon Girl Coding" width="400"/>
+   <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"/>
 </p>
 ---
 
