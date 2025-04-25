@@ -55,7 +55,7 @@
 ### 💻 Vibes While Coding
 
 <p align="center">
- <img src="https://media.tenor.com/2roX3uxz_68AAAAC/coding.gif" width="400" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400"/>
 </p>
 ---
 
