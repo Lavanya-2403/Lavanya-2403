@@ -55,7 +55,7 @@
 ### 💻 Vibes While Coding
 
 <p align="center">
-   <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"/>
+  [ <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"/>](https://tenor.com/view/anime-computer-girl-typing-gif-7944313)
 </p>
 ---
 
