@@ -52,10 +52,10 @@
 
 ---
 ### Vibe while coding 💻
-<p>
- <img align="center" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<div align = "center">
+ <img width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-</p>
+</div>
 <br/>
 
 
