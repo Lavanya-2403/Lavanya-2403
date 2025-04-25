@@ -55,8 +55,7 @@
 ### 💻 Vibes While Coding
 
 <p align="center">
-<img width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
-  
+<img width="400" src="https://media.tenor.com/LrVnU1XKZysAAAAC/coding-girl.gif" alt="Coding Girl Vibes" />
 </p>
 ---
 
