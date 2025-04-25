@@ -54,8 +54,9 @@
 ### Vibe while coding 💻
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="female coder gif" width="400"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="girl coding gif" width="400"/>
 </div>
+
 
 <br/>
 
