@@ -55,7 +55,7 @@
 ### 💻 Vibes While Coding
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJhc3ZnbjJ5bnRhZTN4MXZtNG9xbnUwd3Frd3Z5ZnNkdDdwOW42ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif" width="400"/>
+  <img src="/mnt/data/A_digital_illustration_in_a_flat_and_modern_style_.png">
 </p>
 ---
 
