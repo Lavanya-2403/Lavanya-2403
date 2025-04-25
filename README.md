@@ -52,10 +52,11 @@
 
 ---
 ### Vibe while coding 💻
-<div align = "center">
- <img width="400" src="[https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)">
 
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="female coder gif" width="400"/>
 </div>
+
 <br/>
 
 
