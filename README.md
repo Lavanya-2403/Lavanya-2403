@@ -55,11 +55,8 @@
 ### 💻 Vibes While Coding
 
 <p align="center">
-  <img src="https://media.tenor.com/KVnwFMr0F1kAAAAM/girl-coding.gif" width="400" />
-
-
+  <img src="https://i.imgur.com/4M7IWwP.gif" width="400" />
 </p>
-
 ---
 
 ### 💬 Let's Connect!
