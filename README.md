@@ -53,7 +53,7 @@
 ---
 ### Vibe while coding 💻
 <div align = "center">
- <img width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+ <img width="400" src="[https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)">
 
 </div>
 <br/>
