@@ -55,7 +55,7 @@
 ### 💻 Vibes While Coding
 
 <p align="center">
-  <img src="/mnt/data/A_digital_illustration_in_a_flat_and_modern_style_.png">
+  <img src="https://cdn.pixabay.com/photo/2021/05/17/06/08/girl-6258846_1280.png" alt="Cartoon Girl Coding" width="400"/>
 </p>
 ---
 
