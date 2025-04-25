@@ -55,7 +55,8 @@
 ### 💻 Vibes While Coding
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400"/>
+  <img src="https://tenor.com/9GPU.gif" width="400"/>
+
 </p>
 
 ---
