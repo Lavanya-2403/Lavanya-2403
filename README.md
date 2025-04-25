@@ -54,10 +54,9 @@
 ### Vibe while coding 💻
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="girl coding gif" width="400"/>
+ <img src="https://media.giphy.com/media/7J6F9N1sURkAAAAC/coding-anime.gif" width="350" alt="girl coding gif"/>
+
 </div>
-
-
 <br/>
 
 
